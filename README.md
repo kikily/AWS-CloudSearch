@@ -17,3 +17,5 @@ Use AWS CloudSearch in your websites (by using PHP).
 
 ### Step 3. Create a php file to use Cloud Search
 (撰寫一隻PHP程式去使用Cloud Search)
+
+![image 3](https://cloud.githubusercontent.com/assets/18390700/25941292/7b9fdebc-366b-11e7-866e-8c4526c0aa84.png)
