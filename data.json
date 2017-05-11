@@ -1,0 +1,14 @@
+[{
+    "content_type": "application\/json",
+    "content_encoding": "utf-8",
+    "type": "add",
+    "id": 1,
+    "fields": {
+        "id": 1,
+        "title": "test1",
+        "content": "content_test",
+        "startdate": "2017-03-01T00:00:00.000Z",
+        "insdate": "1900-01-01T00:00:00.000Z",
+        "pub_date": "2017-03-07T00:00:00.000Z"
+    }
+}]
