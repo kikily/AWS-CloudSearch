@@ -1,6 +1,6 @@
 # AWS-CloudSearch
 
-Use AWS CloudSearch in your websites.
+Use AWS CloudSearch in your websites (by using PHP).
 
 如何於網站應用AWS的CloudSearch
 
