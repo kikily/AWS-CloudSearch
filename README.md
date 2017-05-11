@@ -9,4 +9,5 @@ Use AWS CloudSearch in your websites.
 ![image 1](https://cloud.githubusercontent.com/assets/18390700/25939449/7e22862c-3665-11e7-9af4-8ffbf3347447.png)
 
 
-Step 2. 
+### Step 2. Prepare your JSON file and upload to your domain
+(產生要被搜尋的資料為JSON檔案，並上傳至你的domain裡面)
