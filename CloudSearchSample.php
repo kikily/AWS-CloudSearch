@@ -17,7 +17,7 @@ $filterQuery = "(and (prefix field=title 'test1'))";
 //Post search conditions and get a result array
 $result = $cloudsearch->search(array(
 	'query'		=> 'test',
-	'filterQuery'    => $filterQuery,                     //Specifies a structured query (Optional)
+	'filterQuery'   => $filterQuery,                      //Specifies a structured query (Optional)
 	'sort'		=> 'startdate asc, article_id desc',  //Specifies the fields or custom expressions to use to sort the search results. (Optional)
 	'size'  	=> 5,                                 //Specifies the maximum number of search hits to include in the response. (Optional)
 	'start' 	=> 0,                                 //Specifies the offset of the first search hit you want to return. (Optional)
